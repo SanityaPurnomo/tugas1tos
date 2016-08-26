@@ -1,0 +1,40 @@
+  1  cd public_html
+  2  git clone https://github.com/SanityaPurnomo/tugas1tos
+  3  ls -al
+  4  cd tugas1tos
+  5  ls -al
+  6  touch coba
+  7  nano coba
+  8  mkdir cobamkdir
+  9  ls
+  10  rmdir cobamkdir
+  11  ls
+  12  pwd
+  13  cp /home/m26415005/public_html/tugas1tos /home/m26415005/public_html
+  14  ls
+  15  cd ..
+  16  ls
+  17  ls -al
+  18  cd tugas1tos
+  19  cp /home/m2641505/public_html/tugas1tos/coba /home/m26415005/public_html
+  20  ls -al
+  21  cp coba /home/m26415005/public_html
+  22  ls
+  23  cd ..
+  24  ls -al
+  25  rm coba
+  26  ls -al
+  27  cd tugas1tos
+  28  touch hai.txt
+  29  nano hai.txt
+  30  ls -al
+  31  mv hai.txt /home/m26415005/public_html
+  32  ls -al
+  33  cd ..
+  34  ls -al
+  35  rm hai.txt
+  36  ls -al
+  37  cd tugas1tos
+  38  ls -al
+  39  history
+
