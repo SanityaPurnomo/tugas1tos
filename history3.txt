@@ -1,0 +1,14 @@
+  1 cd public_html
+  2  cd tugas1tos
+  3  ls -al
+  4  chown coba:coba coba
+  5 ls -al /home/
+  6  chown pic:pic coba
+  7  ls -al
+  8  su -
+  9  passwd
+  10  who
+  11  w
+  12  finger pic
+  13  whoami
+  14  history
