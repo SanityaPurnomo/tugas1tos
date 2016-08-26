@@ -1,0 +1,38 @@
+  1 echo "hi"
+  2  cat coba
+  3  strings a coba
+  4  man strings
+  4  strings -n coba
+  6  strings -n 2 coba 
+  7  cat >> coba 
+  8  strings -n 2 coba 
+  9  strings -t d coba 
+  10  grep ^h coba
+  11  grep i$ coba
+  12  wc coba
+  13  wc -n 2 coba
+  14  ls -al
+  15  cut halo coba
+  16  cut --help
+  17  cut --help|more 
+  18  cut -c Halo coba
+  19  cut -c H coba
+  20  cut -d" " f1 coba
+  21  cut -d " " f1 coba
+  22  cut -d " " -f1 coba
+  23  cut -d " " -f2 coba
+  24  paste -d " " -f1 coba
+  25  paste coba
+  26  paste 1 2 coba
+  27  sort coba
+  28  uniq coba
+  29  cat >> coba 
+  30  sort coba
+  31  uniq coba
+  32  diff coba
+  33  diff --help
+  34  diff -y coba
+  35  cat >> coba
+  36  cat >> coba1
+  37  diff coba coba1
+  38  history
