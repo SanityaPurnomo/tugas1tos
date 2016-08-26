@@ -1,0 +1,16 @@
+    1  history
+    2  ps
+    3  ps -aux
+    4  pstree
+    5  top
+    6  htop
+    7  free
+    8  vmstat
+    9  watch
+   10  watch -c
+   11  bg
+   12  jobs
+   13  cat > coba &
+   14  jobs
+   15  fg
+   16  history
