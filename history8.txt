@@ -1,0 +1,20 @@
+    1  date
+    2  cal
+    3  bc
+    4  mc
+    5  at
+    6  ls -al
+    7  nano coba2
+    8  sed -s'\lima\dua
+    9  sed -s'\lima\dua\g'
+   10  sed 's\lima\dua\g'
+   11  sed 's\lima\dua\g' coba2
+   12  cat coba2
+   13  sed -i 's\lima\dua\g' coba2
+   14  cat coba2
+   15  awk ' /'aku'/ {print $2}'
+   16  awk ' /'aku'/ {print $2}' coba2
+   17  awk ' /'aku'/ {print $1}' coba2
+   18  touch history8.txt
+   19  history
+
