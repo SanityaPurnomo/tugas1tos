@@ -1,0 +1,17 @@
+    1  history
+    2  hostname
+    3  ifconfig
+    4  ipconfig
+    5  ping 10.0.0.1
+    6  traceroute www.google.com
+    7  netstat -a
+    8  nmap
+    9  nmap -v -sn 10.0.0.0/8
+   10  nmap -v -sn 192.168.0.0/16
+   11  telnet john.petra.ac.id
+   12  ssh john.petra.ac.id
+   13  ssh m26415005@john.petra.ac.id
+   14  mail -s "Hello" m26415005@john.petra.ac.id
+   15  touch history6.txt
+   16  history
+
