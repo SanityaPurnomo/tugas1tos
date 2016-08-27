@@ -1,0 +1,33 @@
+  1  cd public_html
+  2  cd tugas1tos
+  3  ls -al
+  4  tar --help
+  5  tar --help|more
+  6  tar -cvf coba1
+  7  tar -cvf coba1 mencobatar.tar
+  8  tar -cvf mencobatar.tar coba1
+  9  ls -al
+  10  tar -zvf mencobatar.tar
+  11  tar -xvf mencobatar.tar
+  12  ls -al
+  13  rm -rf mencobatar.tar
+  14  ls -al
+  15  zip cobazip.zip coba1
+  16  ls -al
+  17  unzip cobazip.zip 
+  18  ls -al
+  19  rm -rf cobazip.zip
+  20  zip cobazip.zip coba1 coba
+  21  rm -rf cobazip.zip 
+  22  bzip2 cobazip.zip coba coba1
+  23  bzip2  coba coba1
+  24  bzip2 coba coba1
+  25  bzip2 -v coba coba1
+  26  tar -cvf coba
+  27  tar -cvf cobatar.tar coba
+  28  ls -al
+  29  rm -rf cobatra.tar
+  30  ls -al
+  31  rm -rf cobatar.tar
+  32  ls -al
+
