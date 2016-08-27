@@ -1,0 +1,16 @@
+    1  clean
+    2  clear
+    3  fdisk /dev/sda
+    4  ls -al /dev
+    5  mount /dev/sdb /m
+    6  du
+    7  du --max-depth=1
+    8  du --max-depth=2
+    9  df
+   10  quota
+   11  telnet m26415005@john.petra.ac.id
+   12  telnet john.petra.ac.id
+   13  ls -al
+   14  touch history7.txt
+   15  history
+
